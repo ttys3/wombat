@@ -24,9 +24,7 @@ require (
 	github.com/sirupsen/logrus v1.8.0 // indirect
 	github.com/wailsapp/wails v1.16.3
 	golang.org/x/image v0.0.0-20210220032944-ac19c3e999fb // indirect
-	golang.org/x/net v0.0.0-20210220033124-5f55cee0dc0d // indirect
-	golang.org/x/sys v0.0.0-20210220050731-9a76102bfb43 // indirect
-	golang.org/x/text v0.3.5 // indirect
+	golang.org/x/net v0.17.0 // indirect
 	google.golang.org/genproto v0.0.0-20210219173056-d891e3cb3b5b
 	google.golang.org/grpc v1.35.0
 	google.golang.org/protobuf v1.25.1-0.20200805231151-a709e31e5d12
